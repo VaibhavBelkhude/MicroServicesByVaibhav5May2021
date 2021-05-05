@@ -1,0 +1,22 @@
+#URL TEST
+--------
+Post:
+------
+http://localhost:9898/employee/create
+         "FROM SAVE-->POST"
+---------------------------------------------
+PUT:
+------
+http://localhost:9898/employee/modify 
+     "FROM UPDATE -->PUT'
+----------------------------------------------
+PATCH:
+------
+http://localhost:9898/employee/Email
+   "FROM PARTIALY UPDATE-->PATCH"
+----------------------------------------------
+DELETE:
+--------
+http://localhost:9898/employee/remove
+   "FROM REMOVE-->DELETE"
+-----------------------------------------------        
